@@ -34,7 +34,7 @@ header li:hover{
   color: #262626;
 }
 
-/* Section A */
+/* Seção A */
 
 #section-a{
   display: grid;
@@ -80,7 +80,7 @@ header li:hover{
   grid-column: 1/5;
 }
 
-/* Section B */
+/* Seção B */
 
 #section-b{
     display: grid;
@@ -151,7 +151,7 @@ footer .grid a:hover{
   color:pink;
 }
 
-/* Media Queries */
+/* Media Queries (ajuste ao tamanho da tela) */
 
 /* MIN WIDTH 700PX*/
 
